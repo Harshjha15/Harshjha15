@@ -11,7 +11,6 @@
 
 - 📫 How to reach me **harshjha550@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Pya_9b7A1x8WC0DieCCmxXjvC4Bpv-fG/view?usp=share_link](https://drive.google.com/file/d/1Pya_9b7A1x8WC0DieCCmxXjvC4Bpv-fG/view?usp=share_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
