@@ -1,5 +1,4 @@
 ![logo](https://github.com/Harshjha15/Harshjha15/blob/main/WhatsApp%20Image%202023-03-25%20at%2018.15.15.jpg)
-
 <h1 align="center" >Hi 👋, I'm HARSH KUMAR JHA</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="coding"  width="300" src=https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif>
