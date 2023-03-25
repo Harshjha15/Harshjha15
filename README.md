@@ -18,8 +18,8 @@
 
 <h3 align="left"> 🌐 Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/harsh jha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harsh jha" height="30" width="40" /></a>
-<a href="https://fb.com/harshjha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="harshjha" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/harsh-jha-214452206" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harsh jha" height="30" width="40" /></a>
+<a href="https://www.facebook.com/harshjha550" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="harshjha" height="30" width="40" /></a>
 <a href="https://instagram.com/harshhh_jha_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="harshhh_jha_" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/sit_it009" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="sit_it009" height="30" width="40" /></a>
 </p>
