@@ -1,6 +1,7 @@
 ![](https://github.com/Harshjha15/Harshjha15/blob/main/WhatsApp%20Image%202023-03-25%20at%2018.15.15.jpg)
-<h1 align="center" >Hi 👋, I'm HARSH KUMAR JHA</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=4ed710&center=true&vCenter=true&width=940&lines=Hey%2C+I'm+Harsh+Jha+and+Welcome+to+my+Profile!" align="middle" alt="Hey, I'm Harsh jha and Welcome to my Profile! animated typed out" width="100%"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=b71919&center=true&vCenter=true&width=940&lines=A+passionate+frontend+developer+from+India" align="middle" alt="A passionate frontend developer from India animated typed out" width="100%"/>
+
 <img align="right" alt="coding"  width="300" src=https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif>
 
 
