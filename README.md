@@ -6,7 +6,8 @@
 
 
 <h1 align="center"> 💫 About Me:</h1>
-💻I'm currently working as a IT student..<br>📢I'm currently learning  Fronted Development And Database Managemant System .<br>
+
+💻I'm currently working as a IT student.
 
  🌱 I’m currently learning **Java , Web Development , Oracle**
 
