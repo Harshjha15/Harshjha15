@@ -1,4 +1,4 @@
-![logo]()
+![logo](https://github.com/Harshjha15/Harshjha15/blob/main/WhatsApp%20Image%202023-03-25%20at%2018.15.15.jpg)
 
 <h1 align="center" >Hi 👋, I'm HARSH KUMAR JHA</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
