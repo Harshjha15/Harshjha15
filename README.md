@@ -2,7 +2,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=4ed710&center=true&vCenter=true&width=940&lines=Hey%2C+I'm+Harsh+Jha+and+Welcome+to+my+Profile!" align="middle" alt="Hey, I'm Harsh jha and Welcome to my Profile! animated typed out" width="100%"/>
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2000&pause=2000&color=ab10d7&center=true&vCenter=true&width=940&lines=A+passionate+frontend+developer+from+India" align="middle" alt="A passionate frontend developer from India animated typed out" width="100%"/>
 
-<img align="right" alt="coding"  width="300" src=https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif>
+<img align="right" alt="coding"  width="350" src=https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif>
 
 
 <h1 align="center"> 💫 About Me:</h1>
@@ -22,6 +22,8 @@
 <a href="https://www.facebook.com/harshjha550" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="harshjha" height="30" width="40" /></a>
 <a href="https://instagram.com/harshhh_jha_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="harshhh_jha_" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/sit_it009" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="sit_it009" height="30" width="40" /></a>
+ <a href="https://auth.geeksforgeeks.org/user/harshjha550" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="rahulgorai8372" height="30" width="40" /></a>	
+</p>
 </p>
 
 <h3 align="left"> 🖥 Languages and Tools:</h3>
